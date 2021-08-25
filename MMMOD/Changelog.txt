@@ -1,0 +1,9 @@
+0.91: Changed Response To Correct Password To Say Something Minorly Different.
+0.92: Fixed Password Spacings, Changed Wrong Password response
+0.93: Added Goto Menu, Added Cls to Ending
+0.94: Fixed S In Merge Mansion, Added Copy Of Menu That You Will Be Redirected To After Your Done.
+
+Password Changelog
+
+2.0: Turned The File To A Batch File Where You Need To Connect Wires To Decode The Password
+(why is there even a team of people guarding a code that is 6 letters long and literally for a mobile game mod?? Guess we will Never Know . . .)
